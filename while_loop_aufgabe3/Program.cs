@@ -8,8 +8,9 @@ class Program
         int i = 10;
         while(i > 0)
         {
-            summe = summe + i
+            summe = summe + i;
             i--;
         }
+        Console.WriteLine("Summe: " + summe);
     }
 }
