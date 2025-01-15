@@ -2,23 +2,11 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "While Loop", "While Loop", "{8DE08D3D-A58E-4669-8B73-1F704345A00A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "while-loop_aufgabe2", "while-loop_aufgabe2\while-loop_aufgabe2.csproj", "{CA5D4E52-A8EC-4F97-9187-CC3D66DA94DB}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "while_loop_aufgabe3", "while_loop_aufgabe3\while_loop_aufgabe3.csproj", "{27BBD8E2-A2BD-4822-87DB-5F6868B80206}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CA5D4E52-A8EC-4F97-9187-CC3D66DA94DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CA5D4E52-A8EC-4F97-9187-CC3D66DA94DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CA5D4E52-A8EC-4F97-9187-CC3D66DA94DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CA5D4E52-A8EC-4F97-9187-CC3D66DA94DB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{27BBD8E2-A2BD-4822-87DB-5F6868B80206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{27BBD8E2-A2BD-4822-87DB-5F6868B80206}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{27BBD8E2-A2BD-4822-87DB-5F6868B80206}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{27BBD8E2-A2BD-4822-87DB-5F6868B80206}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
